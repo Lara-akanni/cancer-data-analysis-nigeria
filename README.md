@@ -5,3 +5,5 @@ Here's the [link](https://medium.com/@_molara/data-analysis-case-study-of-cancer
 - Data Visualization (Tableau)
 
 Here's the [Tableau visualization](https://public.tableau.com/views/CancerDataAnalysisinNigeria2009-2016/CancerDashboard2?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) on my Tableau public profile.
+
+Here's the [Google Sheets link](https://docs.google.com/spreadsheets/d/18XyIFQHy9NKHz8vgkMorcwMl9D-QHfgIA0iu4O9PWBg/edit?usp=sharing) containing the cleaned dataset.
